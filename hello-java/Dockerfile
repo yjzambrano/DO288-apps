@@ -23,5 +23,9 @@ EXPOSE 8080
 
 USER  1001
 
+<<<<<<< HEAD
 #   Run the fat JAR
+=======
+# Run the fat JAR
+>>>>>>> c06a626518e35021a753a9c8d20647550398db12
 CMD   /opt/app-root/bin/run-app.sh
